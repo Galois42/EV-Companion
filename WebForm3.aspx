@@ -227,6 +227,6 @@
     document.getElementById('result').innerText = resultText;
     }
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAabJVSPSjilACr2BG2nX0LetukuSVnuyc&libraries=places&callback=initAutocomplete" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=key&libraries=places&callback=initAutocomplete" async defer></script>
 </body>
 </html>
