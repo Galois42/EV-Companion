@@ -1,4 +1,4 @@
-# **🚗 EV Companion: Smart Electric Vehicle Journey Planner**
+# **🚗⚡ EV Companion: Smart Electric Vehicle Journey Planner**
 
 A web-based journey planner for electric vehicles that optimizes routes with smart charging stop recommendations using real-time data and Google Maps integration.
 
