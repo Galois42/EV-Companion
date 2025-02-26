@@ -2,6 +2,10 @@
 
 A web-based journey planner for electric vehicles that optimizes routes with smart charging stop recommendations using real-time data and Google Maps integration.
 
+You can find an overview of the project on Devpost: https://devpost.com/software/evc
+
+Watch a demonstration of the project in action! : https://www.youtube.com/watch?v=I_-78TMTgrw&ab_channel=SamiTahi
+
 ## **Key Features**
 - Interactive route planning with real-time traffic updates
 - Smart charging station recommendations based on vehicle compatibility
